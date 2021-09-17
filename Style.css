@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    background-color: aqua;
+    text-align: center;
+}
+
+h1{
+    color: rgb(160, 9, 40);
+   
+}
+
+#about{
+    font-size: large;
+    font-family: cursive;
+    font-display: bold;
+}
+
+button{
+    background-color: rgb(51, 185, 185);
+    padding: 0.5rem;
+    margin: 10px;
+}
+
+input{
+    padding: 0.5rem;
+}
+
+table, th, td {
+    border: 2px solid black;
+    margin-bottom: 50px;
+  }
+#error-Message{
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(112, 5, 5);
+}
